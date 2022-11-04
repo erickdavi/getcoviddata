@@ -1,0 +1,22 @@
+[
+   {
+      "request": [
+         {
+            "method": "GET",
+            "url": "https://vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com/api/npm-covid-data/"
+         }
+      ],
+
+      "headers": [ 
+         {
+            "key": "X-RapidAPI-Host",
+            "value":"vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com"
+         },
+         {
+            "key": "X-RapidAPI-Key",
+            "value": "076cc67ecamsh790e8af6475731bp1ecbb0jsnfb81f60f4496"
+         }
+      ]
+
+   }   
+]
